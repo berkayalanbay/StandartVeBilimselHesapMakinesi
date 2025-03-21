@@ -1,0 +1,1 @@
+C:\Users\BERKAY ALANBAY\source\repos\CalculatorApp\CalculatorApp\CalculatorApp.csproj;x64
